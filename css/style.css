@@ -145,6 +145,7 @@ section {
   border-bottom: 1px solid;
   text-transform: uppercase;
   padding: 0 0 10px;
+	margin-top: 20px;
 }
 
 
@@ -155,7 +156,7 @@ section {
 .about-info {
   width: 60%;
   margin: 0 auto;
-  padding: 50px 0;
+  padding: 40px 0;
   text-align: center;
   z-index: 99;
 }
@@ -202,7 +203,7 @@ section {
 .service {
   width: 60%;
   margin: 0 auto;
-  padding: 50px 0;
+  padding: 70px 0;
   text-align: center;
   z-index: 99;
 }
@@ -291,4 +292,17 @@ section {
   font-size: 16px;
   cursor: pointer;
   text-transform: uppercase;
+}
+
+.social {
+	width: 60%;
+	margin: 0 auto;
+	padding: 70px 0;
+	text-align: center;
+}
+
+.contact img {
+  max-width: 80px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
