@@ -92,7 +92,7 @@ header ul li a {
 
 section {
   padding: 60px 0;
-  height: 100%;
+
   position: relative;
 }
 
@@ -100,6 +100,7 @@ section {
 
 /* HOME SECTION STYLE */
 .home {
+	  height: 100%;
   color: #ffffff;
   padding: 0;
   text-align: center;
@@ -216,6 +217,7 @@ section {
   width: 40%;
   margin: 25px 30px;
   text-align: center;
+	float:
 }
 .service .col img {
   max-width: 48px;
